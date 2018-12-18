@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<rss version="2.0">
+<channel>
+
+<title>El tiempo en tu localidad</title>
+<link>https://www.tiempo.es/</link>
+<language>es</language>
+<description>Pagina web del tiempo </description>
+
+
+
+
+<item>
+<title>Tiempo</title>
+<link>https://www.tiempo.es/</link>
+<description>El tiempo</description>
+</item>
+
+
+<item>
+<title>Eventos especiales</title>
+<link>https://www.tiempo.es/especial/festivales-de-musica.html</link>
+<description>Pagina de eventos especiales asociada a la pagina web del tiempo</description>
+</item>
+</channel>
+
+</rss>

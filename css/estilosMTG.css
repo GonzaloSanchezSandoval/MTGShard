@@ -1,0 +1,113 @@
+
+*{
+    padding:0;
+    margin:0;
+}
+
+
+body{
+        background: rgb(255, 255, 255);
+
+}
+
+
+
+
+
+header{
+        background: #BDC0BA;
+      
+}
+header img{
+        width: 20%;
+        
+}
+
+a #text {
+        width: 100%;
+        background:#76b6eb;
+        box-shadow: 5px 3px 5px rgb(0, 0, 0);
+        color: #E30101;
+        height:50px;
+        font-family: fantasy;
+        font-size: 30px;
+}
+
+    nav  {
+            position: absolute;
+            left: 0;
+            width: 100%;
+            background : rgb(245, 206, 128);
+    }
+
+    nav ul {
+            margin: 0 auto;
+            width: 940px;
+            list-style: none;
+    }
+
+    nav  ul li button {
+            float: left;
+            
+    }
+
+    nav  ul li button b {
+            display: block;
+            margin-right: 20px;
+            width: 140px;
+            font-size: 16px;
+            line-height: 44px;
+       
+            text-decoration: none;
+            color: rgb(20, 20, 20);
+            font-family: Arial;
+
+        
+    }
+
+    nav  ul li button b:hover {
+            color: rgb(17, 105, 221);
+    }
+
+    nav ul li.selected b {
+            color: rgb(121, 121, 121);
+    }
+
+    #banner {
+         
+            width: 900px;
+            height: 200px;
+            padding: 50px;
+            margin: 50px;
+            color: #FFFFFF;
+            text-align: vertical;
+            vertical-align: middle;
+
+    }
+
+    #text {
+
+            width: 1000px;
+            height: 1000px;
+            padding: 0px;
+            margin: 0px;
+            color: #FFFFFF;
+            text-align: middle;
+            vertical-align: middle;
+         
+    }
+
+    #mkt{
+                width: 5%;
+                margin: 1%;
+
+    }
+
+    #cambiopg{
+
+          background-color: Transparent;
+          background-repeat:no-repeat;
+          border: none;
+          cursor:pointer;
+          overflow: hidden;
+    }
